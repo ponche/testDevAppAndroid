@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bonneRoute">ok, vous pouvez conduire sans problème. bonne route</string>
+    <string name="prudence">vous etes en dessous du seuil légal, je vous conseil de laiser le volant a quelqu\'un d\'autre</string>
+    <string name="infraction">vous ne pouvez pas reprendre le volant, vous etes au dessus du seuil légal</string>
+    <string name="delit">vous etes bien alcoolise, c\'est un délit si vous reprener le volant avec teaux d\'alcoolémie</string>
+    <string name="coma">Vous tenez toujours debout? </string>
+</resources>

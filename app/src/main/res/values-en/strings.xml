@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Systeme</string>
+    <string name="app_name">"test application "</string>
+    <string name="coma">" You still stand?"</string>
+    <string name="infraction">" You can not go back to the wheel, you are above the legal threshold"</string>
+</resources>

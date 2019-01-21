@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bonneRoute">Ok, you can drive without a problem. good road</string>
+    <string name="prudence">You are below the legal threshold, I advise you to leave the wheel to someone else</string>
+    <string name="delit">You can not go back to the wheel, you are above the legal threshold</string>
+    <string name="comeé"> You are still standing?</string>
+</resources>
